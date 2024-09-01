@@ -1,0 +1,1748 @@
+{
+    "36aff5f5-f5c0-454e-9f3a-7e956ca13e10": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "bd29a168-78bd-4bdb-b10c-60e0fc20802b": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "779d9e16-daa7-4cad-a32c-29d9e560dfa4": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "b14d4e41-cb23-4e54-9eab-03347db8a212": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "63a59ea1-cde5-4bd5-95ab-77f92a69c5e8": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "6ea88f23-1923-430d-9edc-4993fbde9045": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "11dafaea-2049-4211-8098-a15188c1eaea": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "e3a15747-c737-411a-93a9-717577e9d7f5": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "ee98ffdf-3a2f-4bc4-a24a-2a8ff0ceac8c": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "e132cb36-ed8b-403a-8448-3fa8e1b89c74": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "dc576c59-f6a6-4618-9f82-42400770f5b4": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "5fb2d61c-5749-4958-acce-438aa4fe2842": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "c579a60d-a9dd-4462-a8d8-3b29049c27cb": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "8b085e54-00f7-4ae5-bdbf-ddf05dab495a": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "780679f2-447d-4259-9857-c84fcf1c92e8": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "c4a6ed0f-93b3-43a5-8da1-c6441dcb3116": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "8ae24ded-665b-44f9-bcbd-09cbb2d8c1c9": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    },
+    "b3cb3189-4300-47d6-bfae-60b5c8fef08b": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "11a8fee3-6fb1-45d2-96f7-48724e2c0b8c": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "19434219-af64-4fd6-a62c-15e38e5f11eb": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "4e852af2-e4c8-4f8e-9dfd-ce1290173afd": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "58e69d6a-5c8d-4189-91e2-066e2c2c3483": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "1d8b6bdd-8258-4c92-8ffc-b5353f048917": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "edaca3fe-bb5f-4b55-a69c-2650387a6bab": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "6d7ce898-2a1c-40a7-a101-67fc88133787": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "23f5bc60-f6a6-4b24-83af-f5ad33a97fcb": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "af6ed6ef-4cf0-46b1-b3bc-a272ab028186": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "83e442a9-6d94-4bf1-9a44-c68a53a6c8c7": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "304bfab0-e9df-4657-a8ca-4777be6271fc": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "114ce5f2-ae61-4abe-8fe7-a313597eabf7": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "2c9dbb3d-c56c-4a84-9299-16b4e1b9ed30": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "591676ab-fbcb-4e0a-91f9-9fd0d07c3b97": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "765e14dc-f9a3-4697-a2df-70661ed4fed8": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "e93b5ccb-06a2-4230-b3b7-1fa0f9781e75": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "1b06d0a5-06db-4132-8351-b4a0a656fb47": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "0f73b7d6-1e23-4c2a-9c6e-9222f59ed494": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "80ca9c3a-5976-4bbb-ac89-5b1efb594ac8": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "5a49df0c-2a7e-4f4a-beca-cb3737408e29": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "7e0e8343-31bb-40e5-bdfe-eb0c7fd32911": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "8b49e270-8cd4-40a0-a3c1-e56ae2076363": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "f2a142ea-46c3-42f1-a3d1-b5143c881895": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "c0aab86f-2170-4cca-97ee-25540d4afade": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    },
+    "31290d11-2457-45d1-a132-5cabf7700624": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    },
+    "38a6267e-2786-4b22-91c9-ecdcf693d55c": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "5ee6c562-14ee-4616-b2ce-5b37ff673459": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "20cce8cf-41a9-4013-aca9-824f935d0108": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "5896b250-776e-4c40-8891-c5aec0f0ec7e": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "6eeade72-b2ed-4ad1-8448-416a26504a7b": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "52b5c0cd-c3ab-4ee8-bae4-99f00b2a277d": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "5ce5c4be-a687-4ddc-9bef-50951818c935": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "b34c40d9-b1d3-4dbd-9a7f-135f6b2c0bb5": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "c82c8366-d9ff-4309-80ad-88138dfb635e": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "b9922bc3-1360-4a37-a9c3-44e9d751d87a": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "fa014cf8-1a81-4efb-a309-4b157ea2ed3a": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "11942113-5820-45bf-a35f-a3d9049d2fa0": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "9ff089d5-a14c-4bbc-bc17-ad95ba23954a": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "ce5adb5f-6178-463c-a1fc-544d4ef2d972": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "532ec6d1-04ca-4971-b44b-ce9ede446d0a": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "550e8a94-1bb1-4ad3-93f0-a9dbcf6011d8": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "927474f4-dd28-4e1f-9ab4-dd8d422860d0": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "a06c3cd1-e905-4368-822a-32ac4d4b1f0e": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "d62a52ec-899f-48d3-81ec-4f065d6b8378": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "b025f728-3cc0-4b2a-a3ba-2c593f385db7": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "ae263e12-7bc7-4c00-8249-6f15eace90b5": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "cddad31f-3b1d-44ec-825d-381cc7311560": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "3633cef2-e912-4fa9-8a96-015b8ed838c6": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "22e1a229-b507-436f-afb5-907c46b80d8a": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "ba666105-57c7-4e1b-9f71-e5dc4fa8ddf5": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "4eee2f97-0635-4231-ab41-79e2384df5ad": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "d15b7c8d-4472-429e-81b9-c95b1e300288": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "b3ffffd0-296a-4fa8-8dbf-04750c18e97c": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "7fcd2772-b95c-4678-ad99-c9621c2e8670": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "225cc9c2-5719-4056-9ed0-060b62e5c77b": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "f785179b-48a0-47f4-9cbe-b13952066550": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "180500c5-0338-4430-b4f5-67e44b1968d2": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "287c8b6f-4a66-4c25-a0f5-b0ffdfe92bf0": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "fd3e5229-7455-4304-a944-929dc235b931": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "3c2e448e-a158-4c4d-92c3-9de710d46d09": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "d0c9f2e9-e71d-4859-b3ca-8bb1faea8a60": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "107a031f-a28c-4887-978d-c2283079490f": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "40c6fd21-7c87-42e0-a629-c38d3986da69": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "9329ba9b-caab-4d9f-8c94-487c49f25470": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "b32895c7-ca60-4dde-9c07-24ef7718a74b": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "6ae103eb-a8aa-460d-8dde-47ab1d0df127": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "35c37be1-d7ce-4a67-91eb-c04720c669c1": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "c7ea0880-6a14-4247-9996-52169f0ef307": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "a5c4cbcf-0cad-41f0-9106-6a309dc414d6": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "1250472c-cf68-43b7-91eb-5705434921ed": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "f37df027-8e08-4b82-b8bb-6f48cf68b712": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "01df1b3c-89b1-4074-8df9-10ff2122a0da": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "dc3f6646-227c-40b5-8823-44f19917c2ac": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "32a43ef4-aeb1-440a-abe8-97f313ce51cd": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "915990b9-93a0-44d0-9886-dac328392944": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "57cc27c3-9a85-42b6-ad8a-b4b3e6b65169": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "02dc642a-209d-4aec-a225-7b01c3e16238": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "e7db0a52-a1cf-4340-8de9-7d84a768e91a": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "2df54f97-b948-493b-8a1c-51158fe2de9d": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "4b75d81e-e323-4ed4-8615-f984f4e44ded": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "7b9893de-6294-44d1-b66f-46eab7e7ba7e": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "b2f8b790-75a9-4a7a-98bc-f18f448a1ef1": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "b3b3b6e0-7b5f-4f85-b8d5-051547dca44e": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "a52efeef-4409-4ca6-ad56-f8173c84e091": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "28fc5f72-d547-418b-b919-551fd2b700d2": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "f07ac535-8d32-4d23-811a-67edf2078271": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "6db5adad-472a-4067-a4c6-e74d0a00a1c3": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "0e64320f-2254-47be-b058-d57235dc2382": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "304047b8-2fa7-489e-aba4-9c40de9f6cd3": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "d16b28c9-b350-4aca-b946-949121a74b6d": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "55e9848c-ee75-4dc7-a5c8-5df8bcc5e80b": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "127f0e3b-65a6-423a-bbc7-4fabc5dacacf": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "aa666f15-660b-4f60-b184-2f0202345399": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "7c850165-9bb3-43d3-be99-b8e57ec8919e": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "9827e49e-a12e-47a0-ad39-2577d1443076": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "2955146a-cd19-4b50-ab50-298a97682f42": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "0ec4228f-a835-4453-86e0-9a33047e2a02": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "e88f98cd-8e99-4782-ba94-9a6bfcb698f8": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "696c56a4-bbd7-4ab3-9228-1913d072cfb7": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "7780f3f6-f30b-43ae-b24a-4847770bf8b8": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "8a03713d-30f1-484b-bc16-da6302e15903": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "5f6a2255-32b1-4aef-8136-ed918879ec46": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "7fa2a1e8-124d-43c1-824d-e3380b291e31": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "d1893ba2-7493-442f-b44d-df31f2ff655d": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "14767509-3ab5-4195-948d-c504ece51570": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "235a8b85-f877-4a36-b7ca-7bf5c1d0d125": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "87f84399-d8f4-4b2c-9c61-c8d2758396e3": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "e0ae2148-3279-48b1-8789-97719532700b": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "ef954605-cb67-4810-b00f-fe0ff5bd44d8": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "e171f40d-05ad-475b-aa79-d3b7e2d62511": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "12bb0df4-b9fa-468c-a1e5-59e988ea7cfd": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "f3bb8255-3319-4fd4-b097-d84952fd2e5b": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "4777da13-3a38-4b97-ae65-e066eb7e118d": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "a6f85388-3847-4687-80c0-c009ae46f8f9": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "e7ff376a-0178-4d89-89c7-1a4b1510923a": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "992e948f-d62e-44d0-bd91-cfb7422a509e": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "716a794d-8b32-4cd3-9934-2ad1ae802d3a": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "64498888-c4a9-4f37-b013-7d25af3df886": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "76184e03-eeef-4a4e-b249-f9e7b51c4c8e": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "9cd00595-7f78-42b5-9a8f-9ed7fe3abeec": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "f647df01-c1c3-495d-9af0-cfbaccd759a1": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "1994cd87-a54d-43c6-8eb8-a2a52e1e11b8": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "0fc0a30e-88cd-4df1-b507-1436fcca4bad": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "018bc261-b102-481f-9cd5-36e813869700": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "f8a63dad-d17c-4b8b-bc99-3c8b26100dd7": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "c61c4b61-3711-4e49-bcf2-9588831604ec": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "b4a59f57-07c3-452a-a4ea-0e872c495820": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "74b281af-4d57-461a-ab4a-0f31115b8d34": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "0138446f-8e3c-4158-bdd8-24409b183b6c": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "a6a83654-0349-49cd-89d6-622338bb11fd": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "fc1d0ebe-7963-49e8-9133-d34af2d82340": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "6e68e7f8-a395-45b9-83c7-f6b9baa98c76": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "e50683ad-1496-4275-b241-845b1a75927b": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "a4bae900-ee34-4d60-8d0e-cb2f3d385f03": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "461ced72-f58d-480b-9e44-cef04477c00b": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "a6178f1d-4716-43d4-bce6-0ab0ba4d7b53": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "33dd87c0-180d-4b77-b265-0f3ab765b54c": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "17ef2a9b-2a53-4bd0-896f-dffde7ee51a1": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "7ca9f64f-5563-436d-9c0e-57355dbeb349": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "787bd7f5-a97a-4283-af42-fe773a1af56e": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "10cf131d-36e0-435d-b288-485987b8fcd4": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "c9d02318-197d-44cf-8e87-ce4c335e27ad": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "af897652-ef74-44c8-87f7-e26c0b15daa1": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "35cb435b-ee22-4462-bc00-154dcc39ba99": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "9d6b5344-fe52-4694-9624-497626b2ba89": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "0c166675-b885-4e9a-9db6-5485e19f4bdd": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "aa063089-845c-4c80-8a62-60b4da2d74f8": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "f5999294-f2a4-4352-8594-af0af994381d": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "2cb8508d-7d75-4066-9b20-2d0c1ef8c9c5": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "1d5a2c6e-c80b-4233-9578-9398f3596763": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "f29280b4-10ab-4f4a-a77c-58404e33e29a": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "b6c9ce1a-d8ce-4e8c-863f-ab22f9f57284": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "e5674d0d-943c-4695-8ff2-d4d1e37e322f": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "cd393a15-d746-4f32-8a08-c6216cdccf96": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "8d091cf6-fcbb-4072-84a6-14790f7c898a": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "b2247590-f7a9-4fcd-82e1-6f1974a48c6f": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "666f1ee9-8ed1-4b0f-a802-e83910e40145": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "4e0e4d0f-8b0a-4342-a2c1-66387ff8f806": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "7b6caaa9-60fe-4978-a1f0-78337a76a293": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "9b7cc2f3-6c5c-4e7f-b841-02e04d611839": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "b5921dd2-d1ef-40f0-9b6e-1f56b141dbc9": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "9331af57-c5cd-4452-8590-b7ac140d5b48": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "f03904ff-82a6-4143-96b8-c5350a3f2668": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "8b9122d2-9122-44b5-accb-6f2949de0d37": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "9447085c-37d1-4517-ba05-4e15031432d5": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "21ef76e3-4a64-4c15-be27-83061f3aff0a": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "e6a6e562-6e7d-4b50-9b72-611c73172dc3": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "0399399e-1c27-4172-a3bc-329b7e3e0380": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "ac4c426d-af7f-4b7b-9ee6-57b9b8344880": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "23ebf77c-9431-48f8-b1bd-dba6c1f28c7b": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "fc922265-cc04-4266-89de-5faf41bf0b64": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "0176a39a-49ad-4545-9d5a-517bc0d5df2f": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "e27fa7ad-a570-4cee-a5c2-002c66aec153": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "ef28b9fb-44c4-47a6-ab1c-6d26a25634f3": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "3f0509ca-f2f1-434c-8c4f-6b2b04abbae7": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "faa1e77f-9435-4111-8233-31d3eedcf802": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "17d43f71-2027-4358-9ab2-f28ab4ab6bdb": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "f321b007-70c8-4e5c-a7f9-3423556dae6f": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    },
+    "348cc2ec-e489-4ba4-8b9e-1c40c381d6eb": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "ce48b937-6486-431f-bbb9-7ff220b061e0": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "082b3719-cac6-4632-a09f-c388a4318479": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "87f6d896-df33-475a-89fd-acd999ad42dc": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "f9c15ee7-f687-409a-bbd5-cc3729dca086": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "091c6c85-8be1-4405-b16b-c3c2fed80960": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "36aeb3ad-875b-4be1-a6a7-d166fcc5d37f": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "671baacb-70a5-4f4c-92c7-bfd1e3eda5e1": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "b329f786-bdeb-4fd5-8efe-1f0a76778461": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "5814476a-9236-4601-984c-c644ce27df35": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "f23eed52-94b5-4de4-9016-7cd413dc23a0": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "7ec3fcbf-4b8b-483f-bdf7-15d5313e39f4": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "47401648-53c1-4fd2-bc35-bafeb8d0e857": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "0f30ecf7-ccfe-458e-b3e5-f263c2ee0c65": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "09b481cc-fdd6-40c0-adde-8c2511e3468d": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "df3f3a65-926d-437a-8e92-7ad3c40814a0": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "5e95daa5-be83-4289-ba33-fc0137f509a1": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "11415d99-49ee-4b32-85d0-9b5ec70b5b82": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "5d465414-1960-46e4-938d-f74aa1ab020e": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "6aac6763-ce6a-4618-ad98-cfffcd6752e1": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "de62bb1e-97da-4ea4-a7ce-221e9cea3f63": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "827db4c5-3b95-464e-a870-b17feebd7f7d": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "34e810dd-b4aa-4545-b22a-ee2b655ad541": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "2b10b3f4-f79e-4ff7-aa1e-9b85aa73fee5": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "14a42a40-df75-4575-89c2-7ce126b54b37": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "3b5b4541-0f7c-4b20-b956-2a485340c72b": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "bbedab28-7f69-4017-9fa3-ad85aaa96493": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "1646e7c9-c09f-499b-abe9-5a35dea6de85": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "0cc8c157-2bb0-469c-9b98-1ae01b7656de": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "404376e5-1076-4289-9dd3-a7be77b504b3": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "d381aa62-6a6c-4916-ab78-30fa00d034a2": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.192 Mobile/15E148 Safari/604.1"
+    },
+    "f3d44545-d418-4565-9196-bf38fddecf50": {
+        "name": "Redmi Note 11S 5G",
+        "brand": "Redmi",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; 22031116BG Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"
+    },
+    "b15c055d-a362-4dd2-8032-d00e0b153cd2": {
+        "name": "Apple Mac",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 GD"
+    },
+    "dcaf26ac-90ce-4231-8cd1-a3949b08760b": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 [FBAN/FBIOS;FBAV/469.0.0.36.102;FBBV/612967364;FBDV/iPad13,4;FBMD/iPad;FBSN/iPadOS;FBSV/17.0.3;FBSS/2;FBID/tablet;FBLC/zh_TW;FBOP/5;FBRV/617002225]"
+    },
+    "646afb2b-d41f-4c4a-bc0d-b04d4101d0a0": {
+        "name": "iPad Pro 11 inch (3rd generation) Wi-Fi",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPad; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A5307i Instagram 339.0.3.12.91 (iPad13,4; iPadOS 18_0; nl_NL; nl; scale=2.00; 750x1334; 619461904; IABMV/1)"
+    },
+    "7cc6637e-ec63-4f1e-af84-14ace4ed36cf": {
+        "name": "iPhone 14 Pro Max",
+        "brand": "Apple",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 Instagram 309.1.1.28.108 (iPhone15,3; iOS 16_1_2; en_US; en; scale=3.00; 1290x2796; 537288535)"
+    },
+    "d93c73d3-4fa3-4f5e-ba4c-f2d1547c0b0d": {
+        "name": "Windows ",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 [ip:151.44.92.160]"
+    },
+    "7f6bdc98-8dd4-4f75-896f-6a8d6f350be1": {
+        "name": "Galaxy Note4",
+        "brand": "Samsung",
+        "isInsta": true,
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0.1; 640dpi; 1440x2560; samsung; SM-N910F; trlte; qcom; pt_PT; 98288242)"
+    },
+    "becd9394-6374-42eb-9c4d-01433e8da5ab": {
+        "name": "Windows 11",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    },
+    "65c016a8-91bb-4940-aa65-45a99f006cf6": {
+        "name": "Galaxy S20 5G",
+        "brand": "Samsung",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36 Edg/127.0.0.0"
+    },
+    "c1edd413-5649-402a-81ec-1f562c176e4c": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/127.0.0.0"
+    },
+    "b321f6c0-ce3b-4868-8392-9414dc5de137": {
+        "name": "unkn Apple iPhone",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/127.0.0.0"
+    },
+    "0555e87d-56b4-4bac-b182-1d029591b227": {
+        "name": "Pixel 7",
+        "brand": "Google",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36 Edg/127.0.0.0"
+    },
+    "332c381d-ad6e-4200-a098-55f1bb70396e": {
+        "name": "Galaxy S8+",
+        "brand": "Samsung",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36 Edg/127.0.0.0"
+    },
+    "f09b8bc4-86ed-4096-8f58-33202d6bf113": {
+        "name": "Galaxy S20 5G",
+        "brand": "Samsung",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36 Edg/127.0.0.0"
+    },
+    "82f923f6-78b8-4adc-8d26-5ff420435af6": {
+        "name": "unkn Apple iPad",
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/127.0.0.0"
+    },
+    "93808c7c-c6ab-42f8-8f01-50076e87641f": {
+        "name": "Surface Duo",
+        "brand": "Surface",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 11.0; Surface Duo) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36 Edg/127.0.0.0"
+    },
+    "7b295460-c799-44e9-8340-b0b70e2ecc04": {
+        "name": "Windows 10",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    },
+    "7d4da761-59a2-4b1c-ad8c-0f6be533967f": {
+        "name": "Galaxy S8+",
+        "brand": "Samsung",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36 Edg/127.0.0.0"
+    },
+    "17df47e5-6490-4460-852f-985fac3f30ab": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "2ad8e225-630e-4cdb-940a-ab278ce99c66": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "ac83326e-bb21-4f49-a8c3-22940237c701": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "a4cf753e-9474-4355-91fb-3c0113391362": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "72c42a90-0906-4a68-b8ac-40f232028971": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "8ed5bd80-cc6c-45ec-ae11-830cd6ba90aa": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "5dd8fc15-3141-4d28-a20b-0f327f172db0": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "ad1fdb14-06e4-40ae-a2de-9c17b55d6208": {
+        "name": null,
+        "brand": "Apple",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "24e02e67-6fd4-4719-b920-72251137692c": {
+        "name": null,
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "e908c8e9-87c9-4666-acf7-a25290b46635": {
+        "name": "Generic Smartphone",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "171a6c84-53ef-44f8-84a1-267b442c319f": {
+        "name": "Generic Smartphone",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "d3cae6ae-fd51-438c-b798-9c02ac362fbb": {
+        "name": "Generic Smartphone",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "57bc4590-f8d6-4ab4-989d-60c4ca7d7b6e": {
+        "name": "Generic Smartphone",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "d90d5c73-de00-45e8-a67a-b9e46f53b1ba": {
+        "name": null,
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "10609bb7-4c6c-4e55-bf03-685dfc9b4ef3": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "570f85df-420b-41b5-b357-6ae1cf1d2e3b": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "20f10a52-6f25-4428-b03f-ce9c739d3747": {
+        "name": null,
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "9d9b4f78-aaf7-4e75-b6a6-7902f7be6164": {
+        "name": null,
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "00f576e5-144c-4b41-a4aa-f50d2bfe9858": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "b48b5e38-9070-42db-96ea-dfe9fa33051f": {
+        "name": null,
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "abc9d336-1f76-4a12-95b2-9d869cab6bb4": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "14e7873b-9186-4430-9f5b-7be70c0a5be8": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "ad22d7f0-2e48-4042-b880-17b04066b839": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "38cde8dc-24a6-44c7-86e2-d7fe44304d87": {
+        "name": null,
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "a9d507b9-6cc9-4c5c-855e-97d7889a19db": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "1d258854-7187-495d-bff5-533d71375bc2": {
+        "name": null,
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "fd807416-15fe-4138-a6c6-f689206c5c37": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "62c375df-2523-4cf2-95c7-3ef8a49a88f5": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "4e4c2d56-54ca-45d5-ac49-a502a903405d": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "d3b3357c-c1df-46b1-bfa3-f8be3a5f1bfc": {
+        "name": null,
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "1c00ff5a-e52c-4531-9781-b7777c420e2a": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "81b15e4f-ad8d-4e19-b4b4-0a2df4827cb8": {
+        "name": "Chromecast",
+        "brand": null,
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "e8e454dc-b3db-4920-be5b-f64c4e25b4d9": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "22cd58ad-1768-49d1-b657-a46035b5ecc0": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "fe8b8c60-5e49-4501-9005-286fc4db5afb": {
+        "name": "Windows 11",
+        "brand": "Microsoft",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    },
+    "4981dff0-6911-4b8c-9bde-901a095d8a51": {
+        "name": "Chromecast",
+        "brand": "Google",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    },
+    "6773fc9e-7e00-49af-a455-ded660144803": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "f117ce19-6e9e-4bf0-91f3-f2ae6eeb45fd": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "bd6412ea-7a95-4ce6-9d4f-86b61528b288": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "c8023f87-35e8-4641-b8de-c97b57dc6fd5": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "920aa2f3-4a9d-4acd-9068-d3dfac4b29dc": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "9e7d78ef-ddb8-4a25-bf29-66688d13b55c": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "a373457b-f6b0-4dd3-874e-39770aff558c": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "7ea26eb1-7240-4dcb-8e8d-d2f5c775df11": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "daf9c878-4b8e-46ce-8a17-e995c080ffe4": {
+        "name": "Chromecast",
+        "brand": "Generic",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/127.0.0.0"
+    },
+    "ba59b580-9872-4756-8d50-63cb63ccd64c": {
+        "name": "Chromecast",
+        "brand": "Google",
+        "isInsta": false,
+        "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/127.0.0.0"
+    }
+}
